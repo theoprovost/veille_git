@@ -35,7 +35,9 @@ It updates the repo data leaving your local repo unchanged.
 It imports commit to local branches to keep you up-to-date with whats everybody is working on.
 
 Conflicts ? No merging means no conflicts.
+<br>
 
+_____
 ***Refs:***
 |Title|URL|
 |--|--|
